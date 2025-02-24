@@ -6,11 +6,11 @@ Este proyecto consiste en la práctica de funciones en JavaScript mediante la cr
 
 ## Enlace del repositorio
 
-[GitHub - Funciones en JavaScript Clase 4](https://github.com/AilynMza/Arreglos.y.ciclos-Clase-3-M3)
+[GitHub - Funciones en JavaScript Clase 4](https://github.com/AilynMza/Funciones-Clase-4-M3)
 
 ## Enlace del GitHub Pages
 
-[GitHub Pages - Funciones en JavaScript Clase 4](https://ailynmza.github.io/Arreglos.y.ciclos-Clase-3-M3/)
+[GitHub Pages - Funciones en JavaScript Clase 4](https://ailynmza.github.io/Funciones-Clase-4-M3/)
 
 ## Conclusión
 
