@@ -14,6 +14,6 @@ Este proyecto consiste en la práctica de funciones en JavaScript mediante la cr
 
 ## Conclusión
 
-Con este proyecto, reforcé mis conocimientos sobre ciclos, funciones y arreglos en JavaScript. Me ayudó a mejorar la organización de mi código y a entender mejor cómo manipular datos de manera eficiente.
+Con este proyecto, reforcé mis conocimientos sobre ciclos, funciones y arreglos en JavaScript. Me ayudó a mejorar la organización de mi código y a entender mejor cómo manipular datos de manera eficiente. 📚
 
 ![Meme](/imgs/functions-everywhere.jpg)
