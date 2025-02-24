@@ -1,4 +1,4 @@
-# Entregable Clase 3 Modulo 3: Arreglos y ciclos en JavaScript
+# Entregable Clase 4 Modulo 3: Funciones en JavaScript
 
 ## Descripción
 
